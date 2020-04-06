@@ -1,2 +1,1 @@
-# osLabAssignment
-OS lab assignment repo
+# Deadlock avoidance using locks in C programming language
